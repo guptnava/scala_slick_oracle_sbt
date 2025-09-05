@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: hello-slick-oracle
+Implementation-Version: 0.1.0
+Specification-Vendor: hello-slick-oracle
+Specification-Title: hello-slick-oracle
+Implementation-Vendor-Id: hello-slick-oracle
+Specification-Version: 0.1.0
+Main-Class: Main
+Implementation-Vendor: hello-slick-oracle
+
